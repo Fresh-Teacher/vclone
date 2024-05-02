@@ -1,0 +1,53 @@
+{
+  "name": "Fresh App",
+  "short_name": "Fresh App",
+  "description": "Learn, Unlearn, Relearn",
+  "icons": [
+    {
+      "src": "splash.jpg",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "splash.jpg",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "splash.jpg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "splash.jpg",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "splash.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "splash.jpg",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "splash.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
