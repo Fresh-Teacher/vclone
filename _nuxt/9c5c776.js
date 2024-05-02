@@ -723,7 +723,7 @@
             })
         },
         279: function(t) {
-            t.exports = JSON.parse('{"title":"Fresh App","meta":[{"hid":"charset","charset":"utf-8"},{"hid":"viewport","name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"Fresh App"},{"hid":"description","name":"description","content":"We are the University of YOU"},{"hid":"og:type","name":"og:type","property":"og:type","content":"website"},{"hid":"og:title","name":"og:title","property":"og:title","content":"Fresh App"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"Fresh App"},{"hid":"og:description","name":"og:description","property":"og:description","content":"We are the University of YOU"}],"link":[{"hid":"shortcut-icon","rel":"shortcut icon","href":"/_nuxt/icons/icon_64x64.3ed7d6.png"},{"hid":"apple-touch-icon","rel":"apple-touch-icon","href":"/_nuxt/icons/icon_512x512.3ed7d6.png","sizes":"512x512"},{"rel":"manifest","href":"/_nuxt/manifest.793ac54f.json","hid":"manifest"}],"htmlAttrs":{"lang":"en"}}')
+            t.exports = JSON.parse('{"title":"Victoria University","meta":[{"hid":"charset","charset":"utf-8"},{"hid":"viewport","name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"Victoria University"},{"hid":"description","name":"description","content":"We are the University of YOU"},{"hid":"og:type","name":"og:type","property":"og:type","content":"website"},{"hid":"og:title","name":"og:title","property":"og:title","content":"Victoria University"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"Victoria University"},{"hid":"og:description","name":"og:description","property":"og:description","content":"We are the University of YOU"}],"link":[{"hid":"shortcut-icon","rel":"shortcut icon","href":"/_nuxt/icons/icon_64x64.3ed7d6.png"},{"hid":"apple-touch-icon","rel":"apple-touch-icon","href":"/_nuxt/icons/icon_512x512.3ed7d6.png","sizes":"512x512"},{"rel":"manifest","href":"/_nuxt/manifest.793ac54f.json","hid":"manifest"}],"htmlAttrs":{"lang":"en"}}')
         },
         284: function(t, e, n) {
             "use strict";
@@ -3150,7 +3150,7 @@
                             case 5:
                                 return r = t.sent, c = ue({
                                     head: {
-                                        title: "Fresh App | Academic Excellence",
+                                        title: "Victoria University | Academic Excellence",
                                         meta: [{
                                             charset: "utf-8"
                                         }, {
@@ -3481,7 +3481,7 @@
                         staticClass: "col-sm-12 col-md-4 location"
                     }, [e("h4", {
                         staticClass: "font-weight-bold"
-                    }, [t._v("Fresh App")]), t._v(" "), e("p", [t._v("\n          Our Address: "), e("br"), t._v("\n          Victoria Towers "), e("br"), t._v(" 1-13 Jinja Road, Kampala\n        ")]), t._v(" "), e("br"), t._v(" "), e("p", [t._v("\n          Fresh App, the home to limitless opportunities. Leave behind what’s familiar and step into a world of endless possibilities that define: Who you are, your aspirations, how you impact your community, the country and the rest of the world.\n        ")]), t._v(" "), e("p", {
+                    }, [t._v("Victoria University")]), t._v(" "), e("p", [t._v("\n          Our Address: "), e("br"), t._v("\n          Victoria Towers "), e("br"), t._v(" 1-13 Jinja Road, Kampala\n        ")]), t._v(" "), e("br"), t._v(" "), e("p", [t._v("\n          Victoria University, the home to limitless opportunities. Leave behind what’s familiar and step into a world of endless possibilities that define: Who you are, your aspirations, how you impact your community, the country and the rest of the world.\n        ")]), t._v(" "), e("p", {
                         staticClass: "font-italic mt-4"
                     }, [t._v('"We\'re the University of YOU"')])])
                 }, function() {
