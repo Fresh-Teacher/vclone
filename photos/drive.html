@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Google Drive Video Player</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+
+  .video-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+  }
+
+  #video-player {
+    width: 100%;
+    height: 100%;
+  }
+</style>
+</head>
+<body>
+
+<div class="video-container">
+  <iframe id="video-player" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const videoPlayer = document.getElementById("video-player");
+    const videoId = "19xvT_B9d31FCsxxP2gdyNd4SphZt7zj8"; // Your Google Drive video ID
+
+    // Construct the Google Drive embed URL
+    const videoUrl = `https://drive.google.com/uc?export=download&id=${videoId}`;
+
+    // Update the iframe src with the Google Drive video URL
+    videoPlayer.src = videoUrl;
+  });
+</script>
+
+</body>
+</html>
